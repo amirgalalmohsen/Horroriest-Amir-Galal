@@ -718,6 +718,8 @@ function ContactPage() {
   const socialLinks = [
     { name: "فيسبوك", icon: "📘", url: "https://www.facebook.com/Amir.Galal.M" },
     { name: "إنستجرام", icon: "📷", url: "https://www.instagram.com/amir____galal" },
+    { name: "تويتر (X)", icon: "✖️", url: "https://x.com/amir____galal" },
+    { name: "ثريدز", icon: "🧵", url: "https://www.threads.com/@amir____galal" },
     { name: "تيك توك", icon: "🎵", url: "https://www.tiktok.com/@amir____galal" },
     { name: "تليجرام", icon: "✈️", url: "https://t.me/AmirGalal" },
     { name: "واتساب", icon: "💬", url: "https://whatsapp.com/channel/0029Vb3TWnpDJ6Gv0fg5M22p" },
